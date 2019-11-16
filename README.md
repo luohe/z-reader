@@ -16,17 +16,12 @@
 
 ## 预览
 
-<p align="center">
-    <img width="80%" src="https://github.com/aooiuu/z-reader/blob/master/docs/preview/1.png">
-</p>
+![1](https://user-images.githubusercontent.com/28108111/68991070-72f48c00-0895-11ea-92f0-c57e8764c700.png)
 
-<p align="center">
-    <img width="80%" src="https://github.com/aooiuu/z-reader/blob/master/docs/preview/1.gif">
-</p>
+![2](https://user-images.githubusercontent.com/28108111/68991071-7556e600-0895-11ea-96ca-f8e6cbaffb1c.gif)
 
-<p align="center">
-    <img width="80%" src="https://github.com/aooiuu/z-reader/blob/master/docs/preview/1.gif">
-</p>
+![3](https://user-images.githubusercontent.com/28108111/68991073-7851d680-0895-11ea-975a-52aa9875aeed.gif)
+
 
 ## 感谢
 
