@@ -87,7 +87,7 @@ const itemClick = async function (file: FileInfo, arg: any) {
     });
 
     notification.start();
-    openTextDocument(mContext.extensionPath + '\\src\\view\\template\\default\\style.css');
+    openTextDocument(mContext.extensionPath + '\\static\\template\\default\\style.css');
     notification.stop();
   });
   // 编辑HTML
@@ -97,7 +97,7 @@ const itemClick = async function (file: FileInfo, arg: any) {
       title: '加载中...'
     });
     notification.start();
-    openTextDocument(mContext.extensionPath + '\\src\\view\\template\\default\\index.html');
+    openTextDocument(mContext.extensionPath + '\\static\\template\\default\\index.html');
     notification.stop();
   });
 };
