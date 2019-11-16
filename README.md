@@ -1,8 +1,10 @@
 # z-reader
 
-仓库地址: [github](https://github.com/aooiuu/z-reader)
+> 小说阅读器,支持在线搜索和本地阅读,支持txt和epub格式
 
-安装方法: VScode插件搜索 `z-reader`
+- 仓库地址: [github.com](https://github.com/aooiuu/z-reader)
+- 插件地址: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader)
+- 安装方法: VScode插件搜索 `z-reader`
 
 ## 功能
 
