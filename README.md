@@ -2,9 +2,9 @@
 
 > 用来摸鱼或学习的小说阅读插件,支持在线搜索和本地阅读,支持txt和epub格式
 
-📕 仓库地址: [github.com](https://github.com/aooiuu/z-reader)
-📗 插件地址: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader)
-📘 插件不断完善, 欢迎提交 [issues](https://github.com/aooiuu/z-reader/issues)、[pr](https://github.com/aooiuu/z-reader/pulls)、[star](https://github.com/aooiuu/z-reader)
+- 📕 仓库地址: [github.com](https://github.com/aooiuu/z-reader)
+- 📗 插件地址: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader)
+- 📘 插件不断完善, 欢迎提交 [issues](https://github.com/aooiuu/z-reader/issues)、[pr](https://github.com/aooiuu/z-reader/pulls)、[star](https://github.com/aooiuu/z-reader)
 
 ---
 
