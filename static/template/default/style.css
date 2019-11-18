@@ -37,21 +37,6 @@ body {
   word-break: break-all;
   word-wrap: break-word;
   line-height: 1.5;
-
-  font-size: 14px;
-  ;
-}
-
-textarea {
-  resize: none;
-  border: none;
-  line-height: 1.5;
-}
-
-textarea:hover,
-textarea:focus {
-  outline: none;
-  border: none;
 }
 
 #contextmenu {

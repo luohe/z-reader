@@ -1,7 +1,7 @@
 {
 	"name": "z-reader",
 	"displayName": "z-reader",
-	"description": "小说阅读器，支持在线搜索和本地阅读 (txt、epub...)",
+	"description": "用来摸鱼或学习的小说阅读插件,支持在线搜索和本地阅读,支持txt和epub格式",
 	"keywords": [
 		"txt",
 		"epub",
@@ -10,7 +10,7 @@
 		"fiction"
 	],
 	"publisher": "aooiu",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"icon": "static/images/icon-green.png",
 	"qna": "https://github.com/aooiuu/z-reader.git/issues",
 	"bugs": {
