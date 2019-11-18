@@ -1,10 +1,12 @@
 # z-reader
 
-> 小说阅读器,支持在线搜索和本地阅读,支持txt和epub格式
+> 用来摸鱼或学习的小说阅读插件,支持在线搜索和本地阅读,支持txt和epub格式
 
-- 仓库地址: [github.com](https://github.com/aooiuu/z-reader)
-- 插件地址: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader)
-- 安装方法: VScode插件搜索 `z-reader`
+📕 仓库地址: [github.com](https://github.com/aooiuu/z-reader)
+📗 插件地址: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=aooiu.z-reader)
+📘 插件不断完善, 欢迎提交 [issues](https://github.com/aooiuu/z-reader/issues)、[pr](https://github.com/aooiuu/z-reader/pulls)、[star](https://github.com/aooiuu/z-reader)
+
+---
 
 ## 功能
 
@@ -16,6 +18,8 @@
 - [x] 阅读进度自动保存
 - [x] 阅读进度跳转
 
+---
+
 ## 预览
 
 ![1](https://user-images.githubusercontent.com/28108111/68991070-72f48c00-0895-11ea-92f0-c57e8764c700.png)
@@ -24,6 +28,7 @@
 
 ![3](https://user-images.githubusercontent.com/28108111/68991073-7851d680-0895-11ea-975a-52aa9875aeed.gif)
 
+---
 
 ## 感谢
 
